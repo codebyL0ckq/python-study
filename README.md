@@ -9,8 +9,9 @@ and the complementaries studies came from the books "Automate the Boring Stuff w
 |---------|-------------------------------|---------------------------------------------------------|
 | 1001    | Extremely Basic               | Simple addition with int(),input() and print()          |
 | 1002    | Area of a Circle              | Basic formulae using str(), format() and float()        |
-|         |                               |                                                         |
-|         |                               |                                                         |
+| 1003    | Simple Sum                    | Simple sum, print() using f-strings                     |
+| 1004    | Simple Product                | Simple product like the previous                        |
+| 1005    | Average 1                     | Simple weighted average                                 |
 
 
 ## Goals
