@@ -20,4 +20,4 @@ Develop a solid base in logic with Python, master in/outs, operators, conditions
 
 ## Progress
 
-The progress is documentated in file ['notes/brief.md'](./notes/brief/md), where is registred questions, what I learned e what I need to rethink.
+The progress is documentated in file ['notes/brief.md'](./notes/brief.md), where is registred questions, what I learned e what I need to rethink.
